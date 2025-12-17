@@ -1,14 +1,14 @@
-# 🏥 Pharmallama
+# 🏥 PharmaLlama
 
 **A WhatsApp-based pharmacy management and customer engagement system powered by Meta AI**
 
-Built for Meta Ai developer academy hackathon | Sponsored by Meta
+Built for Meta AI Developer Academy Hackathon | Sponsored by Meta
 
 ---
 
 ## 🎯 Project Overview
 
-Pharmallama is an intelligent pharmacy assistant that enables customers to inquire about medications, check availability, and receive personalized health reminders via WhatsApp. The system also provides automated inventory management and business analytics for pharmacy administrators.
+PharmaLlama is an intelligent pharmacy assistant that enables customers to inquire about medications, check availability, and receive personalized health reminders via WhatsApp. The system also provides automated inventory management and business analytics for pharmacy administrators.
 
 ### Key Problem Solved
 - **Customer Inconvenience:** People waste time traveling to pharmacies only to find drugs out of stock
@@ -367,7 +367,7 @@ Low Stock Items: 2
 
 ## 👥 Team
 
-**Pharmallama**
+**PharmaLlama**
 - Mudathir: Backend & AI Integration
 - Muwafaq: WhatsApp Integration & Frontend
 - Aliyah: Project Manager
@@ -380,7 +380,7 @@ Low Stock Items: 2
 - **Meta** for Llama 3 AI model and WhatsApp platform
 - **Hugging Face** for free AI model hosting
 - **whatsapp-web.js** community for excellent library
-- **Meta Ai developer academy hackathon** for the opportunity
+- **RAIN x META AI Developer Academy** for the opportunity
 
 ---
 
@@ -394,7 +394,7 @@ Low Stock Items: 2
 
 ## 🎉 Thank You!
 
-Built with ❤️ for Meta Ai developer academy hackathon
+Built with ❤️ for Meta AI Developer Academy Hackathon
 
 **Powered by Meta AI | Making Healthcare Accessible**
 
