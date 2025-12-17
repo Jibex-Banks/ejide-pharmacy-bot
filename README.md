@@ -386,7 +386,7 @@ Low Stock Items: 2
 
 ## 📞 Contact
 
-- **Project Repository:** https://github.com/Jibex-Banks/ejide-pharmacy-bot/
+- **Project Repository:** https://github.com/Jibex-Banks/PharmaLlama
 - **Demo Video:** https://www.instagram.com/reel/DSXUCHSDCXO/?igsh=OWd5dnR3eTE2MjBi
 - **Team Email:** aliyahibidun@gmail.com, mudathirajibolamudathir@gmail.com
 
