@@ -1,4 +1,4 @@
-# 🏥 Ejide Pharmacy AI Chatbot System
+# 🏥 Pharmallama
 
 **A WhatsApp-based pharmacy management and customer engagement system powered by Meta AI**
 
@@ -8,7 +8,7 @@ Built for Meta Ai developer academy hackathon | Sponsored by Meta
 
 ## 🎯 Project Overview
 
-Ejide Pharmacy Chatbot is an intelligent pharmacy assistant that enables customers to inquire about medications, check availability, and receive personalized health reminders via WhatsApp. The system also provides automated inventory management and business analytics for pharmacy administrators.
+Pharmallama is an intelligent pharmacy assistant that enables customers to inquire about medications, check availability, and receive personalized health reminders via WhatsApp. The system also provides automated inventory management and business analytics for pharmacy administrators.
 
 ### Key Problem Solved
 - **Customer Inconvenience:** People waste time traveling to pharmacies only to find drugs out of stock
@@ -367,7 +367,7 @@ Low Stock Items: 2
 
 ## 👥 Team
 
-**[Your Team Name]**
+**Pharmallama**
 - Mudathir: Backend & AI Integration
 - Muwafaq: WhatsApp Integration & Frontend
 - Aliyah: Project Manager
@@ -387,7 +387,7 @@ Low Stock Items: 2
 ## 📞 Contact
 
 - **Project Repository:** https://github.com/Jibex-Banks/ejide-pharmacy-bot/
-- **Demo Video:** [Coming Soon]
+- **Demo Video:** https://www.instagram.com/reel/DSXUCHSDCXO/?igsh=OWd5dnR3eTE2MjBi
 - **Team Email:** aliyahibidun@gmail.com, mudathirajibolamudathir@gmail.com
 
 ---
