@@ -2,7 +2,7 @@
 
 **A WhatsApp-based pharmacy management and customer engagement system powered by Meta AI**
 
-Built for [Hackathon Name] | Sponsored by Meta
+Built for Meta Ai developer academy hackathon | Sponsored by Meta
 
 ---
 
@@ -368,9 +368,10 @@ Low Stock Items: 2
 ## 👥 Team
 
 **[Your Team Name]**
-- Developer 1: Backend & AI Integration
-- Developer 2: WhatsApp Integration & Frontend
-- Developer 3: Database & Automation
+- Mudathir: Backend & AI Integration
+- Muwafaq: WhatsApp Integration & Frontend
+- Aliyah: Project Manager
+- Fortune: Researcher & Content Creation
 
 ---
 
@@ -385,22 +386,21 @@ MIT License - Free to use and modify
 - **Meta** for Llama 3 AI model and WhatsApp platform
 - **Hugging Face** for free AI model hosting
 - **whatsapp-web.js** community for excellent library
-- **[Hackathon Name]** for the opportunity
+- **Meta Ai developer academy hackathon** for the opportunity
 
 ---
 
 ## 📞 Contact
 
-- **Project Repository:** [GitHub Link]
-- **Demo Video:** [YouTube Link]
-- **Team Email:** team@ejidepharmacy.com
-- **Twitter:** @EjideBot
+- **Project Repository:** https://github.com/Jibex-Banks/ejide-pharmacy-bot/
+- **Demo Video:** [Coming Soon]
+- **Team Email:** aliyahibidun@gmail.com, mudathirajibolamudathir@gmail.com
 
 ---
 
 ## 🎉 Thank You!
 
-Built with ❤️ for [Hackathon Name]
+Built with ❤️ for Meta Ai developer academy hackathon
 
 **Powered by Meta AI | Making Healthcare Accessible**
 
