@@ -305,38 +305,6 @@ rm pharmacy.db
 
 ---
 
-## 🎬 Demo Script for Judges
-
-**Setup (1 min):**
-1. Show both terminals running
-2. Show WhatsApp connected (bot ready message)
-
-**Demo 1 - Customer Inquiry (1 min):**
-1. Send: "Hello"
-2. Send: "Do you have malaria drugs?"
-3. Show bot checking inventory and responding with options
-
-**Demo 2 - Admin Inventory (1 min):**
-1. From admin number: "add drug coartem 30 2000 malaria"
-2. Show confirmation
-3. "inventory report" → Show full inventory
-
-**Demo 3 - Purchase & Retention (1 min):**
-1. Customer: "I want to buy chloroquine"
-2. Show purchase recorded
-3. Explain: Customer will get reminders on Day 1, 3, and 7 automatically
-
-**Demo 4 - Weekly Report (1 min):**
-1. Show automated weekly report example
-2. Explain: Sends every Sunday 8 PM to all admins
-
-**Highlight Meta Usage:**
-- "Powered by Meta Llama 3 AI"
-- "Using WhatsApp (Meta platform)"
-- "No other AI service used"
-
----
-
 ## 📱 Production Deployment (Optional)
 
 For real deployment after hackathon:
@@ -354,27 +322,6 @@ For real deployment after hackathon:
 3. **Backups:**
    - Schedule database backups (pharmacy.db)
    - Keep .wwebjs_auth folder backed up (session)
-
----
-
-## 💡 Tips for Hackathon Success
-
-1. **Start Early:** Follow setup guide first 2 hours
-2. **Test Everything:** All 4 demo scenarios  
-3. **Prepare Backup:** Have screenshots/video if live demo fails
-4. **Emphasize Meta:** Highlight Llama 3 usage throughout
-5. **Show Value:** Explain how it solves real pharmacy problems
-
----
-
-## 📞 Support During Hackathon
-
-If you run into issues during setup:
-
-1. Check both terminal outputs for errors
-2. Verify admin numbers are correctly formatted
-3. Ensure both services are running simultaneously
-4. Test with simple messages first ("hello")
 
 ---
 
